@@ -1,6 +1,15 @@
 {
   "name": "vue3.2-template",
   "version": "1.0.0",
+  "description": "vue3.2 template",
+  "keywords": [
+    "frontend"
+  ],
+  "homepage": "...",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fazba/template-vue3.2-project.git"
+  },
   "scripts": {
     "preinstall": "only-allow pnpm",
     "dev": "vite --host 0.0.0.0 --mode development",
@@ -32,6 +41,5 @@
   "dependencies": {},
   "engines": {
     "node": ">= 16"
-  },
-  "description": ""
+  }
 }

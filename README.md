@@ -1,6 +1,6 @@
 # 工具、组件库
 
-element-plus axios router less
+element-plus less
 
 # Get Start
 
