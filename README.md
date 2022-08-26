@@ -1,13 +1,13 @@
-该模板用于开发VUE组件
+# 工具、组件库
 
-## 目录和文件说明
+element-plus axios router less
 
-> core/index.vue
+# Get Start
 
-组件入口
+* pnpm i
 
-> app.vue
+* pnpm run dev
 
-在这里编写组件的测试代码
+* pnpm run build
 
 
